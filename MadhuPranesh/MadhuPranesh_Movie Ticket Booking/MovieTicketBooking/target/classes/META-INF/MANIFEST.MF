@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MovieTicketBooking
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: RATHNAM
+Implementation-Vendor-Id: com.controller
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MovieTicketBooking
+Created-By: Maven Integration for Eclipse
+
